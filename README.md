@@ -148,6 +148,7 @@ Always follow **cybersecurity laws and responsible disclosure** practices.
 * [Censys Docs](https://search.censys.io/)
 * [VirusTotal API](https://developers.virustotal.com/)
 * [Have I Been Pwned API](https://haveibeenpwned.com/API/v3)
+* [Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list)
 
 ---
 
