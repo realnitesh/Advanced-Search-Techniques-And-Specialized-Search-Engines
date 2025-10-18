@@ -154,6 +154,7 @@ Always follow **cybersecurity laws and responsible disclosure** practices.
 ### ✨ Author
 
 **Created by:** Nitesh Kumar
+
 **Purpose:** To help learners and researchers explore the power of search intelligence easily.
 
 ---
